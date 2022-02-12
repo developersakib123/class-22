@@ -1,0 +1,148 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.bannar{
+    background: #f9f9ff;
+}
+.bannar-contant{
+    padding-top: 15%;
+}
+.thisme{
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+.philip{
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+.you{
+    font-weight: 300;
+}
+.contant-top{
+    padding-top: 50px;
+}
+.button{
+    color: #fff;
+    background: #838fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.marjin{
+    padding-left: 100px;
+}
+.health-section{
+    background:#838fff;
+    padding: 100px 0;
+    color: #fff;
+    text-align: center;
+}
+
+.contant-box{
+    background: #f9f9ff;
+    padding: 10px 0;
+    text-align: center;
+}
+.box{
+    padding: 20px;
+}
+.box1 {
+	background: #fff;
+	box-shadow: 1px 1px 5px #eeeffb;
+	padding: 0px 20px 60px 20px;
+    border-radius: 5px;
+}
+.box1 h2 {
+	width: 100px;
+	height: 100px;
+	background: #f9f9ff;
+	border-radius: 50%;
+	margin: auto;
+	line-height: 100px;
+	margin-top: 30px;
+    display: inline-block;
+}
+.box1 h4{
+    padding-top: 5px;
+    font-weight: 400;
+}
+.box1 h5{
+    font-weight: 300;
+}
+.box1 h3{
+    color: rgba(0, 0, 0, 0.384);
+    padding: 20px 0;
+    font-size: 23px;
+}
+.a-button{
+    text-decoration: none;
+    border: 1px solid #838fff;
+    padding: 15px 30px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px #9ba4f59c;
+    font-size: 20px;
+}
+.vvvvv{
+     margin-bottom: 50px;
+}
+
+
+.box-ctn{
+    border-radius: 5px;
+    position: relative;
+}
+.box-ctn img{ 
+    width: 100px;
+    position: absolute;
+    top: -60px;
+    left: 20px;
+}
+
+.ctn-box{
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    padding: 60px 20px 40px 20px;
+    text-align: center;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.226);
+    margin-top: 100px;
+}
+.ctn-box h5{
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+.ctn-box a{
+    text-decoration: none;
+    color: #000;
+   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.445);
+   padding: 10px 15px;
+   border-radius: 5px;
+}
+
+.contact-section{
+    background: #f9f9ff;
+    padding: 50px 0;
+}
+.contact{
+    background: #fff;
+    padding: 30px 40px 30px 40px;
+    box-shadow: 1px 1px 10px #eaeafa;
+}
+.btn{
+    background: #17a2b8;
+    color: #fff;
+    margin-left: 43%;
+}
+.contact-me{
+    margin-top: 70px;
+    margin-left: 30px;
+}
+footer{
+    text-align: center;
+    background: #000;
+    color: #fff;
+    padding: 20px 0;
+}
